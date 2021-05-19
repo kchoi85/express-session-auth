@@ -1,0 +1,28 @@
+{
+  "name": "express-session-auth",
+  "version": "1.0.0",
+  "description": "Implementing a session-based authentication in Node.js using Express (a minimalist framework for web servers) and express-session (an Express middleware for server-side sessions)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kchoi85/express-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchoi85/express-session/issues"
+  },
+  "homepage": "https://github.com/kchoi85/express-session#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "standard": "^16.0.3"
+  }
+}
