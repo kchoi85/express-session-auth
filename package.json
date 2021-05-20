@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kchoi85/express-session#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "express-session": "^1.17.2"
